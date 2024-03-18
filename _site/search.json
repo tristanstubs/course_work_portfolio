@@ -361,5 +361,395 @@
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "TODO: Update with template from Paul\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "450_projects.html",
+    "href": "450_projects.html",
+    "title": "DS450 Projects",
+    "section": "",
+    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
+    "crumbs": [
+      "DS450 Projects"
+    ]
+  },
+  {
+    "objectID": "450_projects.html#repo-for-all-my-projects",
+    "href": "450_projects.html#repo-for-all-my-projects",
+    "title": "DS450 Projects",
+    "section": "",
+    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
+    "crumbs": [
+      "DS450 Projects"
+    ]
+  },
+  {
+    "objectID": "250_projects.html",
+    "href": "250_projects.html",
+    "title": "DS250 Projects",
+    "section": "",
+    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
+    "crumbs": [
+      "DS250 Projects"
+    ]
+  },
+  {
+    "objectID": "250_projects.html#repo-for-all-my-projects",
+    "href": "250_projects.html#repo-for-all-my-projects",
+    "title": "DS250 Projects",
+    "section": "",
+    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
+    "crumbs": [
+      "DS250 Projects"
+    ]
+  },
+  {
+    "objectID": "450_Projects/project2.html",
+    "href": "450_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS450 Projects",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "450_Projects/project1.html",
+    "href": "450_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS450 Projects",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "450_Projects/project4.html",
+    "href": "450_Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS450 Projects",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "460_projects.html",
+    "href": "460_projects.html",
+    "title": "DS460 Projects",
+    "section": "",
+    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
+    "crumbs": [
+      "DS460 Projects",
+      "DS450 Projects"
+    ]
+  },
+  {
+    "objectID": "460_projects.html#repo-for-all-my-projects",
+    "href": "460_projects.html#repo-for-all-my-projects",
+    "title": "DS460 Projects",
+    "section": "",
+    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
+    "crumbs": [
+      "DS460 Projects",
+      "DS450 Projects"
+    ]
+  },
+  {
+    "objectID": "350_Projects/project2.html",
+    "href": "350_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "350_Projects/project1.html",
+    "href": "350_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "350_Projects/project4.html",
+    "href": "350_Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "250_Projects/project2.html",
+    "href": "250_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "250_Projects/project1.html",
+    "href": "250_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "250_Projects/project4.html",
+    "href": "250_Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "460_Projects/project3.html",
+    "href": "460_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS460 Projects",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "460_Projects/project0.html",
+    "href": "460_Projects/project0.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS460 Projects",
+      "Project 0"
+    ]
+  },
+  {
+    "objectID": "460_Projects/project5.html",
+    "href": "460_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS460 Projects",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "460_Projects/project6.html",
+    "href": "460_Projects/project6.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS460 Projects",
+      "Project 6"
+    ]
+  },
+  {
+    "objectID": "460_Projects/project4.html",
+    "href": "460_Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS460 Projects",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "460_Projects/project1.html",
+    "href": "460_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS460 Projects",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "460_Projects/project2.html",
+    "href": "460_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS460 Projects",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "250_Projects/project6.html",
+    "href": "250_Projects/project6.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 6"
+    ]
+  },
+  {
+    "objectID": "250_Projects/project5.html",
+    "href": "250_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "250_Projects/project0.html",
+    "href": "250_Projects/project0.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 0"
+    ]
+  },
+  {
+    "objectID": "250_Projects/project3.html",
+    "href": "250_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "350_Projects/project6.html",
+    "href": "350_Projects/project6.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Project 6"
+    ]
+  },
+  {
+    "objectID": "350_Projects/project5.html",
+    "href": "350_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "350_Projects/project0.html",
+    "href": "350_Projects/project0.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Project 0"
+    ]
+  },
+  {
+    "objectID": "350_Projects/project3.html",
+    "href": "350_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "450_Projects/project6.html",
+    "href": "450_Projects/project6.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS450 Projects",
+      "Project 6"
+    ]
+  },
+  {
+    "objectID": "450_Projects/project5.html",
+    "href": "450_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS450 Projects",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "450_Projects/project0.html",
+    "href": "450_Projects/project0.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS450 Projects",
+      "Project 0"
+    ]
+  },
+  {
+    "objectID": "450_Projects/project3.html",
+    "href": "450_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS450 Projects",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "350_projects.html",
+    "href": "350_projects.html",
+    "title": "DS350 Projects",
+    "section": "",
+    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
+    "crumbs": [
+      "DS350 Projects"
+    ]
+  },
+  {
+    "objectID": "350_projects.html#repo-for-all-my-projects",
+    "href": "350_projects.html#repo-for-all-my-projects",
+    "title": "DS350 Projects",
+    "section": "",
+    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
+    "crumbs": [
+      "DS350 Projects"
+    ]
   }
 ]

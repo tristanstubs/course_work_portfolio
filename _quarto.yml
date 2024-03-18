@@ -21,46 +21,134 @@ website:
     right:
       - text: "Home"
         file: index.qmd
-      - text: "DS250 Projects"
-        file: projects.qmd
       - text: "My Resume"
         file: resume.qmd
-      - text: "Data Cleansing"
-        file: cleansing.qmd
-      - text: "Data Exploration"
-        file: exploration.qmd
-      - text: "Story Telling"
-        file: story_telling.qmd
-      - text: "Machine Learning"
-        file: ml.qmd
-      - text: "Full Stack"
-        file: full_stack.qmd
-      - text: "Competition"
-        file: competition.qmd
-      
+      - text: "DS250 Projects"
+        file: 250_projects.qmd
+      - text: "DS350 Projects"
+        file: 350_projects.qmd
+      - text: "DS450 Projects"
+        file: 450_projects.qmd
+      - text: "DS460 Projects"
+        file: 460_projects.qmd
+
   sidebar:
     - title: "DS 250 Projects"
       style: "docked"
       background: light
       contents:
         - text: "DS250 Projects"
-          file: projects.qmd
+          file: 250_projects.qmd
+        - text: "---"
+        - text: "Project 0"
+          file: 250_Projects/project0.qmd
         - text: "---"
         - text: "Project 1"
-          file: Projects/project1.qmd
+          file: 250_Projects/project1.qmd
         - text: "---"
         - text: "Project 2"
-          file: Projects/project2.qmd
+          file: 250_Projects/project2.qmd
         - text: "---"
         - text: "Project 3"
-          file: Projects/project3.qmd
+          file: 250_Projects/project3.qmd
         - text: "---"
         - text: "Project 4"
-          file: Projects/project4.qmd
+          file: 250_Projects/project4.qmd
         - text: "---"
         - text: "Project 5"
-          file: Projects/project5.qmd
+          file: 250_Projects/project5.qmd
         - text: "---"
+        - text: "Project 6"
+          file: 250_Projects/project6.qmd
+        - text: "---"
+
+    - title: "DS 350 Projects"
+      style: "docked"
+      background: light
+      contents:
+        - text: "DS350 Projects"
+          file: 350_projects.qmd
+        - text: "---"
+        - text: "Project 0"
+          file: 350_Projects/project0.qmd
+        - text: "---"
+        - text: "Project 1"
+          file: 350_Projects/project1.qmd
+        - text: "---"
+        - text: "Project 2"
+          file: 350_Projects/project2.qmd
+        - text: "---"
+        - text: "Project 3"
+          file: 350_Projects/project3.qmd
+        - text: "---"
+        - text: "Project 4"
+          file: 350_Projects/project4.qmd
+        - text: "---"
+        - text: "Project 5"
+          file: 350_Projects/project5.qmd
+        - text: "---"
+        - text: "Project 6"
+          file: 350_Projects/project6.qmd
+        - text: "---"
+
+    - title: "DS 450 Projects"
+      style: "docked"
+      background: light
+      contents:
+        - text: "DS450 Projects"
+          file: 450_projects.qmd
+        - text: "---"
+        - text: "Project 0"
+          file: 450_Projects/project0.qmd
+        - text: "---"
+        - text: "Project 1"
+          file: 450_Projects/project1.qmd
+        - text: "---"
+        - text: "Project 2"
+          file: 450_Projects/project2.qmd
+        - text: "---"
+        - text: "Project 3"
+          file: 450_Projects/project3.qmd
+        - text: "---"
+        - text: "Project 4"
+          file: 450_Projects/project4.qmd
+        - text: "---"
+        - text: "Project 5"
+          file: 450_Projects/project5.qmd
+        - text: "---"
+        - text: "Project 6"
+          file: 450_Projects/project6.qmd
+        - text: "---"
+
+    - title: "DS 460 Projects"
+      style: "docked"
+      background: light
+      contents:
+        - text: "DS450 Projects"
+          file: 460_projects.qmd
+        - text: "---"
+        - text: "Project 0"
+          file: 460_Projects/project0.qmd
+        - text: "---"
+        - text: "Project 1"
+          file: 460_Projects/project1.qmd
+        - text: "---"
+        - text: "Project 2"
+          file: 460_Projects/project2.qmd
+        - text: "---"
+        - text: "Project 3"
+          file: 460_Projects/project3.qmd
+        - text: "---"
+        - text: "Project 4"
+          file: 460_Projects/project4.qmd
+        - text: "---"
+        - text: "Project 5"
+          file: 460_Projects/project5.qmd
+        - text: "---"
+        - text: "Project 6"
+          file: 460_Projects/project6.qmd
+        - text: "---"
+
         #continue the pattern if you need more links
         #copy paste from title and keep it indented to sidebar to add additonal sidebar navigation for other pages
 
