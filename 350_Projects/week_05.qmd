@@ -1,6 +1,6 @@
 ---
-title: "Client Report - [Insert Project Title]"
-subtitle: "Course DS 250"
+title: "Weekly Notes"
+subtitle: "Course DS 350"
 author: "[STUDENT NAME]"
 format:
   html:
@@ -25,4 +25,4 @@ execute:
     
 ---
 
-### Paste in a template
+### Weekly Notes

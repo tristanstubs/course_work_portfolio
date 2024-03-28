@@ -3,14 +3,19 @@ title: "DS350 Projects"
 subtitle: "Repo for all my Projects"
 # use quarto markdown to 
 ---
-
-# DS350 Projects
 ## Repo for all my Projects
 
-- [Project 0](/350_Projects/project0.qmd)
-- [Project 1](/350_Projects/project1.qmd)
-- [Project 2](/350_Projects/project2.qmd)
-- [Project 3](/350_Projects/project3.qmd)
-- [Project 4](/350_Projects/project4.qmd)
-- [Project 5](/350_Projects/project5.qmd)
-- [Project 6](/350_Projects/project6.qmd)
+- [Week 01](/350_Projects/week_01.qmd)
+- [Week 02](/350_Projects/week_02.qmd)
+- [Week 03](/350_Projects/week_03.qmd)
+- [Week 04](/350_Projects/week_04.qmd)
+- [Week 05](/350_Projects/week_05.qmd)
+- [Week 06](/350_Projects/week_06.qmd)
+- [Week 07](/350_Projects/week_07.qmd)
+- [Week 08](/350_Projects/week_08.qmd)
+- [Week 09](/350_Projects/week_09.qmd)
+- [Week 10](/350_Projects/week_10.qmd)
+- [Week 11](/350_Projects/week_11.qmd)
+- [Week 12](/350_Projects/week_12.qmd)
+- [Week 13](/350_Projects/week_13.qmd)
+

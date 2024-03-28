@@ -353,14 +353,14 @@
     "href": "Templates/DS250_Template.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Uncomment the entire section to use this template\n\n\n\n\n\n\n\n Back to top"
+    "text": "Uncomment the entire section to use this template and rename this header with your project title\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "Templates/DS350_Template.html",
     "href": "Templates/DS350_Template.html",
-    "title": "Client Report - [Insert Project Title]",
+    "title": "Weekly Notes",
     "section": "",
-    "text": "TODO: Update with template from Paul\n\n\n\n\n Back to top"
+    "text": "Weekly Notes\n\n\n\n\n Back to top"
   },
   {
     "objectID": "450_projects.html",
@@ -625,9 +625,9 @@
   {
     "objectID": "250_Projects/project0.html",
     "href": "250_Projects/project0.html",
-    "title": "Client Report - [Insert Project Title]",
+    "title": "Client Report - Introduction",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Introduction\n\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
       "DS250 Projects",
       "Project 0"
@@ -737,7 +737,7 @@
     "href": "350_projects.html",
     "title": "DS350 Projects",
     "section": "",
-    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
+    "text": "Week 01\nWeek 02\nWeek 03\nWeek 04\nWeek 05\nWeek 06\nWeek 07\nWeek 08\nWeek 09\nWeek 10\nWeek 11\nWeek 12\nWeek 13",
     "crumbs": [
       "DS350 Projects"
     ]
@@ -747,9 +747,152 @@
     "href": "350_projects.html#repo-for-all-my-projects",
     "title": "DS350 Projects",
     "section": "",
-    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
+    "text": "Week 01\nWeek 02\nWeek 03\nWeek 04\nWeek 05\nWeek 06\nWeek 07\nWeek 08\nWeek 09\nWeek 10\nWeek 11\nWeek 12\nWeek 13",
     "crumbs": [
       "DS350 Projects"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_09.html",
+    "href": "350_Projects/week_09.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 9"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_05.html",
+    "href": "350_Projects/week_05.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 5"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_10.html",
+    "href": "350_Projects/week_10.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 10"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_12.html",
+    "href": "350_Projects/week_12.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 12"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_07.html",
+    "href": "350_Projects/week_07.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 7"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_02.html",
+    "href": "350_Projects/week_02.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 2"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_01.html",
+    "href": "350_Projects/week_01.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 1"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_03.html",
+    "href": "350_Projects/week_03.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 3"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_13.html",
+    "href": "350_Projects/week_13.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 13"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_06.html",
+    "href": "350_Projects/week_06.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 6"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_04.html",
+    "href": "350_Projects/week_04.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 4"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_08.html",
+    "href": "350_Projects/week_08.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 8"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_11.html",
+    "href": "350_Projects/week_11.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 11"
     ]
   }
 ]

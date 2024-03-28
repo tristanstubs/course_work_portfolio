@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Your_Name Data Science Portfolio"
+  title: "Your_Name - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
   repo-url: https://github.com/your_url
@@ -10,7 +10,7 @@ website:
 
   page-footer: 
     border: true
-    left: "Your_Name 2023©"
+    left: "Your_Name 2024©"
     right: 
       - icon: linkedin
         href: Your_LinkedIn_URL
@@ -69,27 +69,44 @@ website:
         - text: "DS350 Projects"
           file: 350_projects.qmd
         - text: "---"
-        - text: "Project 0"
-          file: 350_Projects/project0.qmd
+        - text: "Week 1"
+          file: 350_Projects/week_01.qmd
         - text: "---"
-        - text: "Project 1"
-          file: 350_Projects/project1.qmd
+        - text: "Week 2"
+          file: 350_Projects/week_02.qmd
         - text: "---"
-        - text: "Project 2"
-          file: 350_Projects/project2.qmd
+        - text: "Week 3"
+          file: 350_Projects/week_03.qmd
         - text: "---"
-        - text: "Project 3"
-          file: 350_Projects/project3.qmd
+        - text: "Week 4"
+          file: 350_Projects/week_04.qmd
         - text: "---"
-        - text: "Project 4"
-          file: 350_Projects/project4.qmd
+        - text: "Week 5"
+          file: 350_Projects/week_05.qmd
         - text: "---"
-        - text: "Project 5"
-          file: 350_Projects/project5.qmd
+        - text: "Week 6"
+          file: 350_Projects/week_06.qmd
         - text: "---"
-        - text: "Project 6"
-          file: 350_Projects/project6.qmd
+        - text: "Week 7"
+          file: 350_Projects/week_07.qmd
         - text: "---"
+        - text: "Week 8"
+          file: 350_Projects/week_08.qmd
+        - text: "---"
+        - text: "Week 9"
+          file: 350_Projects/week_09.qmd
+        - text: "---"
+        - text: "Week 10"
+          file: 350_Projects/week_10.qmd
+        - text: "---"
+        - text: "Week 11"
+          file: 350_Projects/week_11.qmd
+        - text: "---"
+        - text: "Week 12"
+          file: 350_Projects/week_12.qmd
+        - text: "---"
+        - text: "Week 13"
+          file: 350_Projects/week_13.qmd
 
     - title: "DS 450 Projects"
       style: "docked"

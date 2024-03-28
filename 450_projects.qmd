@@ -4,7 +4,6 @@ subtitle: "Repo for all my Projects"
 # use quarto markdown to 
 ---
 
-# DS450 Projects
 ## Repo for all my Projects
 
 - [Project 0](/450_Projects/project0.qmd)
