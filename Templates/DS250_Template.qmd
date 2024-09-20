@@ -25,48 +25,63 @@ execute:
     
 ---
 
-### Uncomment the entire section to use this template and rename this header with your project title
+_THIS `.qmd` IS INSTRUCTIONAL AND SHOULD `NOT` BE USED TO WRITE YOUR REPORTS (EXCEPTION - PROJECT 0). THERE IS ANOTHER TEMPLATE FILE FOR THAT. YOU WILL NEED TO `PREVIEW` THE REPORT TO PRODUCE A `.html` FILE. YOU WILL SUBMIT THE `.html` FILE ON CANVAS._
 
-<!-- highlight line 31 to the end and use ctrl + / (win) or command + / (mac) to uncomment out the code below, the same shortcut can be used to comment out code again. -->
-<!--
 ```{python}
 #| label: libraries
 #| include: false
 import pandas as pd
 import numpy as np
-import plotly.express as px
+from lets_plot import *
+
+LetsPlot.setup_html()
 ```
 
 
-### Elevator pitch
+## Elevator pitch
+_A SHORT (2-3 SENTENCES) PARAGRAPH THAT `DESCRIBES KEY INSIGHTS` TAKEN FROM METRICS IN THE PROJECT RESULTS THINK TOP OR MOST IMPORTANT RESULTS._ (Note: this is not a summary of the project, but a summary of the results.)
 
-_TODO:paste your elevator pitch here_
-_REMOVE ME:ELEVATOR PITCH IS A SHORT (3-5 SENTENCES) PARAGRAPH THAT `DESCRIBES KEY INSIGHTS` TAKEN FROM METRICS IN THE PROJECT RESULTS THINK TOP OR MOST IMPORTANT RESULTS._
+_A Client has requested this analysis and this is your one shot of what you would say to your boss in a 2 min elevator ride before he takes your report and hands it to the client._
 
 ```{python}
 #| label: project-data
 #| code-summary: Read and format project data
+
+# Learn morea about Code Cells: https://quarto.org/docs/reference/cells/cells-jupyter.html
+
 # Include and execute your code here
-df = pd.read_csv("https://github.com/byuidatascience/data4names/raw/master/data-raw/names_year/names_year.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/byuidatascience/data4python4ds/master/data-raw/mpg/mpg.csv")
 ```
 
+__Highlight the Questions and Tasks__
 
-### QUESTION|TASK 1
+## Question|Task 1
 
-__TODO:COPY PASTE QUESTION|TASK 1 FROM THE PROJECT HERE__
+__COPY PASTE QUESTION|TASK 1 FROM THE PROJECT HERE__
 
-_TODO: type your results and analysis here_
+_Add details here to answer the question but `NOT` like an assignment Q&A. You need to `write your answers as a consulting solution report`. A Client needs to understand the answer, but also needs to understand the decisions that went into the answer (when applicable)._
 
-_TODO and REMOVE: remove any cells not relavent to this question_
+_include figures in chunks and discuss your findings in the figure._
+
+- _YOU SHOULD HAVE QUALITY WRITING THAT DESCRIBES YOUR CHARTS AND TABLES._
+
+- _WE HIGHLY RECOMMEND [GRAMMARLY](https://grammarly.com/) TO FIX YOUR SPELLING AND GRAMMAR. WRITING TAKES TIME TO BE CLEAR. SPEND THE TIME TO PRACITCE._ 
+
+- _YOU SHOULD HAVE QUALITY COMMENTS THAT DESCRIBES YOUR CODES. OFTEN CODEERS WORK IN TEAMS AND YOU NEED TO HAVE QUALTIY COMMENTS FOR YOUR TEAM AND YOURSELF. YOU MAY NEED TO REVISIT CODE YOU WROTE OVER A YEAR AGO, AND IF YOU DONT COMMENT IT NOW YOU WONT REMEMBER WHY YOU DID WHAT YOU DID._
 
 ```{python}
 #| label: Q1
 #| code-summary: Read and format data
 # Include and execute your code here
-# Include import statements here 
-# Include reading data statements here
+
 
 ```
+
+## Question|Task 2
+
+__COPY PASTE QUESTION|TASK 2 FROM THE PROJECT HERE__
+
+- _include figures in chunks and discuss your findings in the figure._
 
 ```{python}
 #| label: Q1-chart
@@ -74,130 +89,37 @@ _TODO and REMOVE: remove any cells not relavent to this question_
 #| fig-cap: "My useless chart"
 #| fig-align: center
 # Include and execute your code here
-chart = px.bar(df.head(200),
-    x="name", 
-    y="AK"
+
+(
+  ggplot(df.head(500), aes(x='displ', y='hwy')) + geom_point()
 )
-chart.show()
 ```
 
-_REMOVE ME: the output of any code cell will appear below the cell, including tables and charts_
+## Question|Task 3
+
+__COPY PASTE QUESTION|TASK 3 FROM THE PROJECT HERE__
+
+- _PROVIDE TABLES THAT HELP ADDRESS THE QUESTIONS AND TASKS (IF APPLICABLE)._
 
 ```{python}
 #| label: Q1-table
 #| code-summary: table example
-#| tbl-cap: "Not much of a table"
+#| tbl-cap: "table example"
 #| tbl-cap-location: top
 # Include and execute your code here
-mydat = df.head(1000)\
-    .groupby('year')\
-    .sum()\
-    .reset_index()\
-    .tail(10)\
-    .filter(["year", "AK","AR"])
-
-display(mydat)
-
-```
-
-_REMOVE ME: the output of any code cell will appear below the cell, including tables and charts_
-
-### QUESTION|TASK 2
-
-__TODO: COPY PASTE QUESTION|TASK 2 FROM THE PROJECT HERE__
-
-_TODO: type your results and analysis here_
-
-_TODO and REMOVE: remove any cells not relavent to this question_
-
-```{python}
-#| label: Q2
-#| code-summary: Read and format data
-# Include and execute your code here
-
-
-```
-
-```{python}
-#| label: Q2-chart
-#| code-summary: plot example
-#| fig-cap: "My useless chart"
-#| fig-align: center
-# Include and execute your code here
-chart = px.bar(df.head(200),
-    x="name", 
-    y="AK"
+mydat = (df.head(1000)
+    .groupby('manufacturer')
+    .sum()
+    .reset_index()
+    .tail(10)
+    .filter(["manufacturer","displ","cty", "hwy"])
 )
-chart.show()
-```
-
-_REMOVE ME: the output of any code cell will appear below the cell, including tables and charts_
-
-```{python}
-#| label: Q2-table
-#| code-summary: table example
-#| tbl-cap: "Not much of a table"
-#| tbl-cap-location: top
-# Include and execute your code here
-mydat = df.head(1000)\
-    .groupby('year')\
-    .sum()\
-    .reset_index()\
-    .tail(10)\
-    .filter(["year", "AK","AR"])
 
 display(mydat)
 
 ```
 
-_REMOVE ME: the output of any code cell will appear below the cell, including tables and charts_
 
-### QUESTION|TASK 3
+Note: Non executing Python `Snippets` include (3) \`\`\` followed by (3) more \`\`\`, each on their own line. These are not single quotes, they are the key left of the number 1 key on the keyboard. The top row can include the language of code that is pasted inbetween the \`\`\`  marks. 
 
-__TODO: COPY PASTE QUESTION|TASK 3 FROM THE PROJECT HERE__
-
-_TODO: type your results and analysis here_
-
-_TODO and REMOVE: remove any cells not relavent to this question_
-
-```{python}
-#| label: Q3
-#| code-summary: Read and format data
-# Include and execute your code here
-
-
-```
-
-```{python}
-#| label: Q3-chart
-#| code-summary: plot example
-#| fig-cap: "My useless chart"
-#| fig-align: center
-# Include and execute your code here
-chart = px.bar(df.head(200),
-    x="name", 
-    y="AK"
-)
-chart.show()
-```
-
-_REMOVE ME: the output of any code cell will appear below the cell, including tables and charts_
-
-```{python}
-#| label: Q3-table
-#| code-summary: table example
-#| tbl-cap: "Not much of a table"
-#| tbl-cap-location: top
-# Include and execute your code here
-mydat = df.head(1000)\
-    .groupby('year')\
-    .sum()\
-    .reset_index()\
-    .tail(10)\
-    .filter(["year", "AK","AR"])
-
-display(mydat)
-
-``` 
-_REMOVE ME: the output of any code cell will appear below the cell, including tables and charts_
--->
+Note: These also work in `Slack` and it is expected they are used for any code shared in that app. No screen shots allowed.
