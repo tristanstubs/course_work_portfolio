@@ -297,7 +297,51 @@
     "href": "250_Projects/project0.html",
     "title": "Client Report - Introduction",
     "section": "",
-    "text": "Introduction\n\n\n\n\n\n\n Back to top",
+    "text": "THIS .qmd IS INSTRUCTIONAL AND SHOULD NOT BE USED TO WRITE YOUR REPORTS (EXCEPTION - PROJECT 0). THERE IS ANOTHER TEMPLATE FILE FOR THAT. YOU WILL NEED TO PREVIEW THE REPORT TO PRODUCE A .html FILE. YOU WILL SUBMIT THE .html FILE ON CANVAS.",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 0"
+    ]
+  },
+  {
+    "objectID": "250_Projects/project0.html#elevator-pitch",
+    "href": "250_Projects/project0.html#elevator-pitch",
+    "title": "Client Report - Introduction",
+    "section": "Elevator pitch",
+    "text": "Elevator pitch\nA SHORT (2-3 SENTENCES) PARAGRAPH THAT DESCRIBES KEY INSIGHTS TAKEN FROM METRICS IN THE PROJECT RESULTS THINK TOP OR MOST IMPORTANT RESULTS. (Note: this is not a summary of the project, but a summary of the results.)\nA Client has requested this analysis and this is your one shot of what you would say to your boss in a 2 min elevator ride before he takes your report and hands it to the client.\n\n\nRead and format project data\n# Learn morea about Code Cells: https://quarto.org/docs/reference/cells/cells-jupyter.html\n\n# Include and execute your code here\ndf = pd.read_csv(\"https://raw.githubusercontent.com/byuidatascience/data4python4ds/master/data-raw/mpg/mpg.csv\")\n\n\nHighlight the Questions and Tasks",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 0"
+    ]
+  },
+  {
+    "objectID": "250_Projects/project0.html#questiontask-1",
+    "href": "250_Projects/project0.html#questiontask-1",
+    "title": "Client Report - Introduction",
+    "section": "Question|Task 1",
+    "text": "Question|Task 1\nCOPY PASTE QUESTION|TASK 1 FROM THE PROJECT HERE\nAdd details here to answer the question but NOT like an assignment Q&A. You need to write your answers as a consulting solution report. A Client needs to understand the answer, but also needs to understand the decisions that went into the answer (when applicable).\ninclude figures in chunks and discuss your findings in the figure.\n\nYOU SHOULD HAVE QUALITY WRITING THAT DESCRIBES YOUR CHARTS AND TABLES.\nWE HIGHLY RECOMMEND GRAMMARLY TO FIX YOUR SPELLING AND GRAMMAR. WRITING TAKES TIME TO BE CLEAR. SPEND THE TIME TO PRACITCE.\nYOU SHOULD HAVE QUALITY COMMENTS THAT DESCRIBES YOUR CODES. OFTEN CODEERS WORK IN TEAMS AND YOU NEED TO HAVE QUALTIY COMMENTS FOR YOUR TEAM AND YOURSELF. YOU MAY NEED TO REVISIT CODE YOU WROTE OVER A YEAR AGO, AND IF YOU DONT COMMENT IT NOW YOU WONT REMEMBER WHY YOU DID WHAT YOU DID.\n\n\n\nRead and format data\n# Include and execute your code here",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 0"
+    ]
+  },
+  {
+    "objectID": "250_Projects/project0.html#questiontask-2",
+    "href": "250_Projects/project0.html#questiontask-2",
+    "title": "Client Report - Introduction",
+    "section": "Question|Task 2",
+    "text": "Question|Task 2\nCOPY PASTE QUESTION|TASK 2 FROM THE PROJECT HERE\n\ninclude figures in chunks and discuss your findings in the figure.\n\n\n\nplot example\n# Include and execute your code here\n\n(\n  ggplot(df.head(500), aes(x='displ', y='hwy')) + geom_point()\n)\n\n\n\n   \n       \n       \n   \n   \n          \n   \n   \n\nMy useless chart",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 0"
+    ]
+  },
+  {
+    "objectID": "250_Projects/project0.html#questiontask-3",
+    "href": "250_Projects/project0.html#questiontask-3",
+    "title": "Client Report - Introduction",
+    "section": "Question|Task 3",
+    "text": "Question|Task 3\nCOPY PASTE QUESTION|TASK 3 FROM THE PROJECT HERE\n\nPROVIDE TABLES THAT HELP ADDRESS THE QUESTIONS AND TASKS (IF APPLICABLE).\n\n\n\ntable example\n# Include and execute your code here\nmydat = (df.head(1000)\n    .groupby('manufacturer')\n    .sum()\n    .reset_index()\n    .tail(10)\n    .filter([\"manufacturer\",\"displ\",\"cty\", \"hwy\"])\n)\n\ndisplay(mydat)\n\n\n\n\n\n\ntable example {#cell-Q1-table}\n\n\n\nmanufacturer\ndispl\ncty\nhwy\n\n\n\n\n5\nhyundai\n34.0\n261\n376\n\n\n6\njeep\n36.6\n108\n141\n\n\n7\nland rover\n17.2\n46\n66\n\n\n8\nlincoln\n16.2\n34\n51\n\n\n9\nmercury\n17.6\n53\n72\n\n\n10\nnissan\n42.5\n235\n320\n\n\n11\npontiac\n19.8\n85\n132\n\n\n12\nsubaru\n34.4\n270\n358\n\n\n13\ntoyota\n100.4\n630\n847\n\n\n14\nvolkswagen\n60.9\n565\n789\n\n\n\n\n\n\n\nNote: Non executing Python Snippets include (3) ``` followed by (3) more ```, each on their own line. These are not single quotes, they are the key left of the number 1 key on the keyboard. The top row can include the language of code that is pasted inbetween the ``` marks.\nNote: These also work in Slack and it is expected they are used for any code shared in that app. No screen shots allowed.",
     "crumbs": [
       "DS250 Projects",
       "Project 0"
