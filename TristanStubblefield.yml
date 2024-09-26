@@ -5,15 +5,15 @@ website:
   title: "Your_Name - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/your_url
+  repo-url: This is my work portfolio for data science.
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: Tristan Stubblefield 2024©
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: linkedin.com/in/tristan-stubblefield
 
   navbar:
     background: primary
