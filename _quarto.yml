@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Your_Name - Data Science Portfolio"
+  title: Tristan Stubblefield - Data Science Portfolio
   favicon: Images/favicon.png
   back-to-top-navigation: true
   repo-url: This is my work portfolio for data science.
