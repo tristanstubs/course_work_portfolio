@@ -1,7 +1,7 @@
 ---
 title: "Client Report - Introduction"
 subtitle: "Course DS 250"
-author: "[STUDENT NAME]"
+author: "Tristan Stubblefield"
 format:
   html:
     self-contained: true
@@ -27,7 +27,7 @@ execute:
 
 ### Introduction
 
-_THIS `.qmd` IS INSTRUCTIONAL AND SHOULD `NOT` BE USED TO WRITE YOUR REPORTS (EXCEPTION - PROJECT 0). THERE IS ANOTHER TEMPLATE FILE FOR THAT. YOU WILL NEED TO `PREVIEW` THE REPORT TO PRODUCE A `.html` FILE. YOU WILL SUBMIT THE `.html` FILE ON CANVAS._
+This is the report and findings from project 0 as part of the DS 250 course. Identifying that the setup is working correctly and that I can submit assingments as demonstrated here.
 
 ```{python}
 #| label: libraries
@@ -41,9 +41,7 @@ LetsPlot.setup_html(isolated_frame=True)
 
 
 ## Elevator pitch
-_A SHORT (2-3 SENTENCES) PARAGRAPH THAT `DESCRIBES KEY INSIGHTS` TAKEN FROM METRICS IN THE PROJECT RESULTS THINK TOP OR MOST IMPORTANT RESULTS._ (Note: this is not a summary of the project, but a summary of the results.)
-
-_A Client has requested this analysis and this is your one shot of what you would say to your boss in a 2 min elevator ride before he takes your report and hands it to the client._
+This week in DS 250 we were tasked in finishing the course setup for the class. I was able to get everything working and now I am in the process of learning how to apply the knowledge I gained and troubleshooting the software and packages. I learned how to use quarto markdown github. I understand this is not a proper elevator pitch with numerical data and it is sumamrizing, but this is Project 0 and I want to make sure everything is executed correctly.
 
 ```{python}
 #| label: project-data
@@ -59,17 +57,9 @@ __Highlight the Questions and Tasks__
 
 ## Question|Task 1
 
-__COPY PASTE QUESTION|TASK 1 FROM THE PROJECT HERE__
+__Finish the Course Setup, and post any questions to getting your environment working smoothly in your course Slack channel__
 
-_Add details here to answer the question but `NOT` like an assignment Q&A. You need to `write your answers as a consulting solution report`. A Client needs to understand the answer, but also needs to understand the decisions that went into the answer (when applicable)._
-
-_include figures in chunks and discuss your findings in the figure._
-
-- _YOU SHOULD HAVE QUALITY WRITING THAT DESCRIBES YOUR CHARTS AND TABLES._
-
-- _WE HIGHLY RECOMMEND [GRAMMARLY](https://grammarly.com/) TO FIX YOUR SPELLING AND GRAMMAR. WRITING TAKES TIME TO BE CLEAR. SPEND THE TIME TO PRACITCE._ 
-
-- _YOU SHOULD HAVE QUALITY COMMENTS THAT DESCRIBES YOUR CODES. OFTEN CODEERS WORK IN TEAMS AND YOU NEED TO HAVE QUALTIY COMMENTS FOR YOUR TEAM AND YOURSELF. YOU MAY NEED TO REVISIT CODE YOU WROTE OVER A YEAR AGO, AND IF YOU DONT COMMENT IT NOW YOU WONT REMEMBER WHY YOU DID WHAT YOU DID._
+I completed the course setup. Including downloading vs code, python 3.11.7 and all packages. I also installed Quarto, and made a Github account and cloned the repository. 
 
 ```{python}
 #| label: Q1
@@ -81,27 +71,40 @@ _include figures in chunks and discuss your findings in the figure._
 
 ## Question|Task 2
 
-__COPY PASTE QUESTION|TASK 2 FROM THE PROJECT HERE__
+__Recreate the example chart from PY4DS: CH2 Data Visualization of the textbook.__
 
-- _include figures in chunks and discuss your findings in the figure._
+- _There is a positive correlation in flipper length and body mass for all three species of penguins studied: Adelie, Gentoo, and Chinstrap. Adelies data is the most sparsed and has a higher amount of outliers that have shorter flipper lengths but a higher body mass. Chinstrap and Adelie both have a tigher concentration that is more evenly distributed across the data set.
 
 ```{python}
 #| label: Q1-chart
 #| code-summary: plot example
-#| fig-cap: "My useless chart"
+#| fig-cap: "Correlation of flipper length to body mass of penguin species"
 #| fig-align: center
 # Include and execute your code here
+import pandas as pd
+from palmerpenguins import load_penguins
+from lets_plot import *
+
+penguins = load_penguins()
+
+LetsPlot.setup_html()
 
 (
-  ggplot(df.head(500), aes(x='displ', y='hwy')) + geom_point()
+    ggplot(
+        data=penguins,
+        mapping=aes(x="flipper_length_mm", y="body_mass_g", color="species"),
+    )
+    + geom_point()
+    + geom_smooth(method="lm")
 )
+  
 ```
 
 ## Question|Task 3
 
-__COPY PASTE QUESTION|TASK 3 FROM THE PROJECT HERE__
+__Include the table created from PY4DS: CH2 Data Visualization used to create the above chart__
 
-- _PROVIDE TABLES THAT HELP ADDRESS THE QUESTIONS AND TASKS (IF APPLICABLE)._
+- _This is the data set that the graph was pulled from. 
 
 ```{python}
 #| label: Q1-table
@@ -109,19 +112,9 @@ __COPY PASTE QUESTION|TASK 3 FROM THE PROJECT HERE__
 #| tbl-cap: "table example"
 #| tbl-cap-location: top
 # Include and execute your code here
-mydat = (df.head(1000)
-    .groupby('manufacturer')
-    .sum()
-    .reset_index()
-    .tail(10)
-    .filter(["manufacturer","displ","cty", "hwy"])
-)
 
-display(mydat)
+penguins = load_penguins()
+penguins
 
+display(penguins)
 ```
-
-
-Note: Non executing Python `Snippets` include (3) \`\`\` followed by (3) more \`\`\`, each on their own line. These are not single quotes, they are the key left of the number 1 key on the keyboard. The top row can include the language of code that is pasted inbetween the \`\`\`  marks. 
-
-Note: These also work in `Slack` and it is expected they are used for any code shared in that app. No screen shots allowed.

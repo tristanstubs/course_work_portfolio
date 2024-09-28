@@ -161,44 +161,44 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Tristan Stubblefield’s CV",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Student, Mathematician, Entrepeneur\n\nlinkedin.com | My LinkedIn page\n\n\n\nUndergrad Sudent at BYU Idaho\n\n\nMajor: Financial Economics Minor: Data Science\n\n\n\nData analytics, Investment analysis, Business Managment, Marketing, Financial Analytics, Big data, Banking\n\n\n\n\n2023 - Now BYU Idaho, Rexburg.\n\nUndergrad Student\n\n\n\n\n2016 Eagle scout\n2019 All State Academic Athlete - Football All District Honors - Defensive End\n2020 Thomas E. Ricks Grant\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n2024 - Now Chipotle Crew"
   },
   {
     "objectID": "resume.html#currently",
     "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
+    "title": "Tristan Stubblefield’s CV",
     "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "text": "Undergrad Sudent at BYU Idaho\n\n\nMajor: Financial Economics Minor: Data Science\n\n\n\nData analytics, Investment analysis, Business Managment, Marketing, Financial Analytics, Big data, Banking"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
+    "title": "Tristan Stubblefield’s CV",
     "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "text": "2023 - Now BYU Idaho, Rexburg.\n\nUndergrad Student"
   },
   {
     "objectID": "resume.html#awards",
     "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
+    "title": "Tristan Stubblefield’s CV",
     "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
+    "text": "2016 Eagle scout\n2019 All State Academic Athlete - Football All District Honors - Defensive End\n2020 Thomas E. Ricks Grant"
   },
   {
     "objectID": "resume.html#publications",
     "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
+    "title": "Tristan Stubblefield’s CV",
     "section": "",
     "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
   },
   {
     "objectID": "resume.html#occupation",
     "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
+    "title": "Tristan Stubblefield’s CV",
     "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "2024 - Now Chipotle Crew"
   },
   {
     "objectID": "exploration.html",
@@ -627,7 +627,7 @@
     "href": "250_Projects/project0.html",
     "title": "Client Report - Introduction",
     "section": "",
-    "text": "THIS .qmd IS INSTRUCTIONAL AND SHOULD NOT BE USED TO WRITE YOUR REPORTS (EXCEPTION - PROJECT 0). THERE IS ANOTHER TEMPLATE FILE FOR THAT. YOU WILL NEED TO PREVIEW THE REPORT TO PRODUCE A .html FILE. YOU WILL SUBMIT THE .html FILE ON CANVAS.",
+    "text": "This is the report and findings from project 0 as part of the DS 250 course. Identifying that the setup is working correctly and that I can submit assingments as demonstrated here.",
     "crumbs": [
       "DS250 Projects",
       "Project 0"
@@ -921,14 +921,14 @@
     "href": "Templates/DS250_Template.html#questiontask-3",
     "title": "Client Report - [Insert Project Title]",
     "section": "Question|Task 3",
-    "text": "Question|Task 3\nCOPY PASTE QUESTION|TASK 3 FROM THE PROJECT HERE\n\nPROVIDE TABLES THAT HELP ADDRESS THE QUESTIONS AND TASKS (IF APPLICABLE).\n\n\n\ntable example\n# Include and execute your code here\nmydat = (df.head(1000)\n    .groupby('manufacturer')\n    .sum()\n    .reset_index()\n    .tail(10)\n    .filter([\"manufacturer\",\"displ\",\"cty\", \"hwy\"])\n)\n\ndisplay(mydat)\n\n\n\n\n\n\n\ntable example {#cell-Q1-table}\n\n\n\nmanufacturer\ndispl\ncty\nhwy\n\n\n\n\n5\nhyundai\n34.0\n261\n376\n\n\n6\njeep\n36.6\n108\n141\n\n\n7\nland rover\n17.2\n46\n66\n\n\n8\nlincoln\n16.2\n34\n51\n\n\n9\nmercury\n17.6\n53\n72\n\n\n10\nnissan\n42.5\n235\n320\n\n\n11\npontiac\n19.8\n85\n132\n\n\n12\nsubaru\n34.4\n270\n358\n\n\n13\ntoyota\n100.4\n630\n847\n\n\n14\nvolkswagen\n60.9\n565\n789\n\n\n\n\n\n\n\n\nNote: Non executing Python Snippets include (3) ``` followed by (3) more ```, each on their own line. These are not single quotes, they are the key left of the number 1 key on the keyboard. The top row can include the language of code that is pasted inbetween the ``` marks.\nNote: These also work in Slack and it is expected they are used for any code shared in that app. No screen shots allowed."
+    "text": "Question|Task 3\nCOPY PASTE QUESTION|TASK 3 FROM THE PROJECT HERE\n\nPROVIDE TABLES THAT HELP ADDRESS THE QUESTIONS AND TASKS (IF APPLICABLE).\n\n\n\ntable example\n# Include and execute your code here\nmydat = (df.head(1000)\n    .groupby('manufacturer')\n    .sum()\n    .reset_index()\n    .tail(10)\n    .filter([\"manufacturer\",\"displ\",\"cty\", \"hwy\"])\n)\n\ndisplay(mydat)\n\n\n\n\n\n\ntable example {#cell-Q1-table}\n\n\n\nmanufacturer\ndispl\ncty\nhwy\n\n\n\n\n5\nhyundai\n34.0\n261\n376\n\n\n6\njeep\n36.6\n108\n141\n\n\n7\nland rover\n17.2\n46\n66\n\n\n8\nlincoln\n16.2\n34\n51\n\n\n9\nmercury\n17.6\n53\n72\n\n\n10\nnissan\n42.5\n235\n320\n\n\n11\npontiac\n19.8\n85\n132\n\n\n12\nsubaru\n34.4\n270\n358\n\n\n13\ntoyota\n100.4\n630\n847\n\n\n14\nvolkswagen\n60.9\n565\n789\n\n\n\n\n\n\n\nNote: Non executing Python Snippets include (3) ``` followed by (3) more ```, each on their own line. These are not single quotes, they are the key left of the number 1 key on the keyboard. The top row can include the language of code that is pasted inbetween the ``` marks.\nNote: These also work in Slack and it is expected they are used for any code shared in that app. No screen shots allowed."
   },
   {
     "objectID": "250_Projects/project0.html#elevator-pitch",
     "href": "250_Projects/project0.html#elevator-pitch",
     "title": "Client Report - Introduction",
     "section": "Elevator pitch",
-    "text": "Elevator pitch\nA SHORT (2-3 SENTENCES) PARAGRAPH THAT DESCRIBES KEY INSIGHTS TAKEN FROM METRICS IN THE PROJECT RESULTS THINK TOP OR MOST IMPORTANT RESULTS. (Note: this is not a summary of the project, but a summary of the results.)\nA Client has requested this analysis and this is your one shot of what you would say to your boss in a 2 min elevator ride before he takes your report and hands it to the client.\n\n\nRead and format project data\n# Learn morea about Code Cells: https://quarto.org/docs/reference/cells/cells-jupyter.html\n\n# Include and execute your code here\ndf = pd.read_csv(\"https://raw.githubusercontent.com/byuidatascience/data4python4ds/master/data-raw/mpg/mpg.csv\")\n\n\nHighlight the Questions and Tasks",
+    "text": "Elevator pitch\nThis week in DS 250 we were tasked in finishing the course setup for the class. I was able to get everything working and now I am in the process of learning how to apply the knowledge I gained and troubleshooting the software and packages. I learned how to use quarto markdown github. I understand this is not a proper elevator pitch with numerical data and it is sumamrizing, but this is Project 0 and I want to make sure everything is executed correctly.\n\n\nRead and format project data\n# Learn morea about Code Cells: https://quarto.org/docs/reference/cells/cells-jupyter.html\n\n# Include and execute your code here\ndf = pd.read_csv(\"https://raw.githubusercontent.com/byuidatascience/data4python4ds/master/data-raw/mpg/mpg.csv\")\n\n\nHighlight the Questions and Tasks",
     "crumbs": [
       "DS250 Projects",
       "Project 0"
@@ -939,7 +939,7 @@
     "href": "250_Projects/project0.html#questiontask-1",
     "title": "Client Report - Introduction",
     "section": "Question|Task 1",
-    "text": "Question|Task 1\nCOPY PASTE QUESTION|TASK 1 FROM THE PROJECT HERE\nAdd details here to answer the question but NOT like an assignment Q&A. You need to write your answers as a consulting solution report. A Client needs to understand the answer, but also needs to understand the decisions that went into the answer (when applicable).\ninclude figures in chunks and discuss your findings in the figure.\n\nYOU SHOULD HAVE QUALITY WRITING THAT DESCRIBES YOUR CHARTS AND TABLES.\nWE HIGHLY RECOMMEND GRAMMARLY TO FIX YOUR SPELLING AND GRAMMAR. WRITING TAKES TIME TO BE CLEAR. SPEND THE TIME TO PRACITCE.\nYOU SHOULD HAVE QUALITY COMMENTS THAT DESCRIBES YOUR CODES. OFTEN CODEERS WORK IN TEAMS AND YOU NEED TO HAVE QUALTIY COMMENTS FOR YOUR TEAM AND YOURSELF. YOU MAY NEED TO REVISIT CODE YOU WROTE OVER A YEAR AGO, AND IF YOU DONT COMMENT IT NOW YOU WONT REMEMBER WHY YOU DID WHAT YOU DID.\n\n\n\nRead and format data\n# Include and execute your code here",
+    "text": "Question|Task 1\nFinish the Course Setup, and post any questions to getting your environment working smoothly in your course Slack channel\nI completed the course setup. Including downloading vs code, python 3.11.7 and all packages. I also installed Quarto, and made a Github account and cloned the repository.\n\n\nRead and format data\n# Include and execute your code here",
     "crumbs": [
       "DS250 Projects",
       "Project 0"
@@ -950,7 +950,7 @@
     "href": "250_Projects/project0.html#questiontask-2",
     "title": "Client Report - Introduction",
     "section": "Question|Task 2",
-    "text": "Question|Task 2\nCOPY PASTE QUESTION|TASK 2 FROM THE PROJECT HERE\n\ninclude figures in chunks and discuss your findings in the figure.\n\n\n\nplot example\n# Include and execute your code here\n\n(\n  ggplot(df.head(500), aes(x='displ', y='hwy')) + geom_point()\n)\n\n\n\n   \n       \n       \n   \n   \n          \n   \n   \n\nMy useless chart",
+    "text": "Question|Task 2\nRecreate the example chart from PY4DS: CH2 Data Visualization of the textbook.\n\n_There is a positive correlation in flipper length and body mass for all three species of penguins studied: Adelie, Gentoo, and Chinstrap. Adelies data is the most sparsed and has a higher amount of outliers that have shorter flipper lengths but a higher body mass. Chinstrap and Adelie both have a tigher concentration that is more evenly distributed across the data set.\n\n\n\nplot example\n# Include and execute your code here\nimport pandas as pd\nfrom palmerpenguins import load_penguins\nfrom lets_plot import *\n\npenguins = load_penguins()\n\nLetsPlot.setup_html()\n\n(\n    ggplot(\n        data=penguins,\n        mapping=aes(x=\"flipper_length_mm\", y=\"body_mass_g\", color=\"species\"),\n    )\n    + geom_point()\n    + geom_smooth(method=\"lm\")\n)\n\n\n\n            \n            \n            \nCorrelation of flipper length to body mass of penguin species",
     "crumbs": [
       "DS250 Projects",
       "Project 0"
@@ -961,7 +961,7 @@
     "href": "250_Projects/project0.html#questiontask-3",
     "title": "Client Report - Introduction",
     "section": "Question|Task 3",
-    "text": "Question|Task 3\nCOPY PASTE QUESTION|TASK 3 FROM THE PROJECT HERE\n\nPROVIDE TABLES THAT HELP ADDRESS THE QUESTIONS AND TASKS (IF APPLICABLE).\n\n\n\ntable example\n# Include and execute your code here\nmydat = (df.head(1000)\n    .groupby('manufacturer')\n    .sum()\n    .reset_index()\n    .tail(10)\n    .filter([\"manufacturer\",\"displ\",\"cty\", \"hwy\"])\n)\n\ndisplay(mydat)\n\n\n\n\n\n\n\ntable example {#cell-Q1-table}\n\n\n\nmanufacturer\ndispl\ncty\nhwy\n\n\n\n\n5\nhyundai\n34.0\n261\n376\n\n\n6\njeep\n36.6\n108\n141\n\n\n7\nland rover\n17.2\n46\n66\n\n\n8\nlincoln\n16.2\n34\n51\n\n\n9\nmercury\n17.6\n53\n72\n\n\n10\nnissan\n42.5\n235\n320\n\n\n11\npontiac\n19.8\n85\n132\n\n\n12\nsubaru\n34.4\n270\n358\n\n\n13\ntoyota\n100.4\n630\n847\n\n\n14\nvolkswagen\n60.9\n565\n789\n\n\n\n\n\n\n\n\nNote: Non executing Python Snippets include (3) ``` followed by (3) more ```, each on their own line. These are not single quotes, they are the key left of the number 1 key on the keyboard. The top row can include the language of code that is pasted inbetween the ``` marks.\nNote: These also work in Slack and it is expected they are used for any code shared in that app. No screen shots allowed.",
+    "text": "Question|Task 3\nInclude the table created from PY4DS: CH2 Data Visualization used to create the above chart\n\n_This is the data set that the graph was pulled from.\n\n\n\ntable example\n# Include and execute your code here\n\npenguins = load_penguins()\npenguins\n\ndisplay(penguins)\n\n\n\n\n\n\ntable example {#cell-Q1-table}\n\n\n\nspecies\nisland\nbill_length_mm\nbill_depth_mm\nflipper_length_mm\nbody_mass_g\nsex\nyear\n\n\n\n\n0\nAdelie\nTorgersen\n39.1\n18.7\n181.0\n3750.0\nmale\n2007\n\n\n1\nAdelie\nTorgersen\n39.5\n17.4\n186.0\n3800.0\nfemale\n2007\n\n\n2\nAdelie\nTorgersen\n40.3\n18.0\n195.0\n3250.0\nfemale\n2007\n\n\n3\nAdelie\nTorgersen\nNaN\nNaN\nNaN\nNaN\nNaN\n2007\n\n\n4\nAdelie\nTorgersen\n36.7\n19.3\n193.0\n3450.0\nfemale\n2007\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n339\nChinstrap\nDream\n55.8\n19.8\n207.0\n4000.0\nmale\n2009\n\n\n340\nChinstrap\nDream\n43.5\n18.1\n202.0\n3400.0\nfemale\n2009\n\n\n341\nChinstrap\nDream\n49.6\n18.2\n193.0\n3775.0\nmale\n2009\n\n\n342\nChinstrap\nDream\n50.8\n19.0\n210.0\n4100.0\nmale\n2009\n\n\n343\nChinstrap\nDream\n50.2\n18.7\n198.0\n3775.0\nfemale\n2009\n\n\n\n\n344 rows × 8 columns",
     "crumbs": [
       "DS250 Projects",
       "Project 0"

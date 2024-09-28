@@ -5,8 +5,8 @@ website:
   title: Tristan Stubblefield - Data Science Portfolio
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: This is my work portfolio for data science.
-  #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
+  repo-url: https://tstubz.github.io/course_work_portfolio/
+  issue-url: https://tstubz.github.io/course_work_portfolio/issues/new
 
   page-footer: 
     border: true

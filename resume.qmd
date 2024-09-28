@@ -1,53 +1,49 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tristan Stubblefield's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tristan Stubblefield
+Student, Mathematician, Entrepeneur
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="linkedin.com/in/tristan-stubblefield">linkedin.com</a>
+| <a href="linkedin.com/in/tristan-stubblefield">My LinkedIn page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Undergrad Sudent at BYU Idaho
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Major: Financial Economics
+Minor: Data Science
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Data analytics, Investment analysis, Business Managment, Marketing, Financial Analytics, Big data, Banking
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2023 - Now`
+__BYU Idaho, Rexburg.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+- Undergrad Student
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2016`
+Eagle scout
 
-Associate, *French Academy of Science*, Paris, France
+`2019`
+All State Academic Athlete - Football
+All District Honors - Defensive End
+
+`2020`
+Thomas E. Ricks Grant
 
 
 
@@ -73,14 +69,8 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2024 - Now`
+Chipotle Crew
 
 
 
