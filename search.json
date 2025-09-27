@@ -1,284 +1,22 @@
 [
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Tristan Stubblefield’s CV",
+    "objectID": "350_projects.html",
+    "href": "350_projects.html",
+    "title": "DS350 Projects",
     "section": "",
-    "text": "Student, Mathematician, Entrepeneur\n\nlinkedin.com | My LinkedIn page\n\n\n\nUndergrad Sudent at BYU Idaho\n\n\nMajor: Financial Economics Minor: Data Science\n\n\n\nData analytics, Investment analysis, Business Managment, Marketing, Financial Analytics, Big data, Banking\n\n\n\n\n2023 - Now BYU Idaho, Rexburg.\n\nUndergrad Student\n\n\n\n\n2016 Eagle scout\n2019 All State Academic Athlete - Football All District Honors - Defensive End\n2020 Thomas E. Ricks Grant\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n2024 - Now Chipotle Crew"
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Tristan Stubblefield’s CV",
-    "section": "",
-    "text": "Undergrad Sudent at BYU Idaho\n\n\nMajor: Financial Economics Minor: Data Science\n\n\n\nData analytics, Investment analysis, Business Managment, Marketing, Financial Analytics, Big data, Banking"
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Tristan Stubblefield’s CV",
-    "section": "",
-    "text": "2023 - Now BYU Idaho, Rexburg.\n\nUndergrad Student"
-  },
-  {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Tristan Stubblefield’s CV",
-    "section": "",
-    "text": "2016 Eagle scout\n2019 All State Academic Athlete - Football All District Honors - Defensive End\n2020 Thomas E. Ricks Grant"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Tristan Stubblefield’s CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
-  },
-  {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Tristan Stubblefield’s CV",
-    "section": "",
-    "text": "2024 - Now Chipotle Crew"
-  },
-  {
-    "objectID": "460_Projects/project6.html",
-    "href": "460_Projects/project6.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Week 01\nWeek 02\nWeek 03\nWeek 04\nWeek 05\nWeek 06\nWeek 07\nWeek 08\nWeek 09\nWeek 10\nWeek 11\nWeek 12\nWeek 13",
     "crumbs": [
-      "DS460 Projects",
-      "Project 6"
+      "DS350 Projects"
     ]
   },
   {
-    "objectID": "460_Projects/project4.html",
-    "href": "460_Projects/project4.html",
-    "title": "Client Report - [Insert Project Title]",
+    "objectID": "350_projects.html#repo-for-all-my-projects",
+    "href": "350_projects.html#repo-for-all-my-projects",
+    "title": "DS350 Projects",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Week 01\nWeek 02\nWeek 03\nWeek 04\nWeek 05\nWeek 06\nWeek 07\nWeek 08\nWeek 09\nWeek 10\nWeek 11\nWeek 12\nWeek 13",
     "crumbs": [
-      "DS460 Projects",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "460_Projects/project5.html",
-    "href": "460_Projects/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS460 Projects",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "460_Projects/project2.html",
-    "href": "460_Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS460 Projects",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Templates/DS250_Template.html",
-    "href": "Templates/DS250_Template.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "THIS .qmd IS INSTRUCTIONAL AND SHOULD NOT BE USED TO WRITE YOUR REPORTS (EXCEPTION - PROJECT 0). THERE IS ANOTHER TEMPLATE FILE FOR THAT. YOU WILL NEED TO PREVIEW THE REPORT TO PRODUCE A .html FILE. YOU WILL SUBMIT THE .html FILE ON CANVAS."
-  },
-  {
-    "objectID": "Templates/DS250_Template.html#elevator-pitch",
-    "href": "Templates/DS250_Template.html#elevator-pitch",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "Elevator pitch",
-    "text": "Elevator pitch\nA SHORT (2-3 SENTENCES) PARAGRAPH THAT DESCRIBES KEY INSIGHTS TAKEN FROM METRICS IN THE PROJECT RESULTS THINK TOP OR MOST IMPORTANT RESULTS. (Note: this is not a summary of the project, but a summary of the results.)\nA Client has requested this analysis and this is your one shot of what you would say to your boss in a 2 min elevator ride before he takes your report and hands it to the client.\n\n\nRead and format project data\n# Learn morea about Code Cells: https://quarto.org/docs/reference/cells/cells-jupyter.html\n\n# Include and execute your code here\ndf = pd.read_csv(\"https://raw.githubusercontent.com/byuidatascience/data4python4ds/master/data-raw/mpg/mpg.csv\")\n\n\nHighlight the Questions and Tasks"
-  },
-  {
-    "objectID": "Templates/DS250_Template.html#questiontask-1",
-    "href": "Templates/DS250_Template.html#questiontask-1",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "Question|Task 1",
-    "text": "Question|Task 1\nCOPY PASTE QUESTION|TASK 1 FROM THE PROJECT HERE\nAdd details here to answer the question but NOT like an assignment Q&A. You need to write your answers as a consulting solution report. A Client needs to understand the answer, but also needs to understand the decisions that went into the answer (when applicable).\ninclude figures in chunks and discuss your findings in the figure.\n\nYOU SHOULD HAVE QUALITY WRITING THAT DESCRIBES YOUR CHARTS AND TABLES.\nWE HIGHLY RECOMMEND GRAMMARLY TO FIX YOUR SPELLING AND GRAMMAR. WRITING TAKES TIME TO BE CLEAR. SPEND THE TIME TO PRACITCE.\nYOU SHOULD HAVE QUALITY COMMENTS THAT DESCRIBES YOUR CODES. OFTEN CODEERS WORK IN TEAMS AND YOU NEED TO HAVE QUALTIY COMMENTS FOR YOUR TEAM AND YOURSELF. YOU MAY NEED TO REVISIT CODE YOU WROTE OVER A YEAR AGO, AND IF YOU DONT COMMENT IT NOW YOU WONT REMEMBER WHY YOU DID WHAT YOU DID.\n\n\n\nRead and format data\n# Include and execute your code here"
-  },
-  {
-    "objectID": "Templates/DS250_Template.html#questiontask-2",
-    "href": "Templates/DS250_Template.html#questiontask-2",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "Question|Task 2",
-    "text": "Question|Task 2\nCOPY PASTE QUESTION|TASK 2 FROM THE PROJECT HERE\n\ninclude figures in chunks and discuss your findings in the figure.\n\n\n\nplot example\n# Include and execute your code here\n\n(\n  ggplot(df.head(500), aes(x='displ', y='hwy')) + geom_point()\n)\n\n\n\n   \n       \n       \n   \n   \n          \n   \n   \n\nMy useless chart"
-  },
-  {
-    "objectID": "Templates/DS250_Template.html#questiontask-3",
-    "href": "Templates/DS250_Template.html#questiontask-3",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "Question|Task 3",
-    "text": "Question|Task 3\nCOPY PASTE QUESTION|TASK 3 FROM THE PROJECT HERE\n\nPROVIDE TABLES THAT HELP ADDRESS THE QUESTIONS AND TASKS (IF APPLICABLE).\n\n\n\ntable example\n# Include and execute your code here\nmydat = (df.head(1000)\n    .groupby('manufacturer')\n    .sum()\n    .reset_index()\n    .tail(10)\n    .filter([\"manufacturer\",\"displ\",\"cty\", \"hwy\"])\n)\n\ndisplay(mydat)\n\n\n\n\n\n\ntable example {#cell-Q1-table}\n\n\n\nmanufacturer\ndispl\ncty\nhwy\n\n\n\n\n5\nhyundai\n34.0\n261\n376\n\n\n6\njeep\n36.6\n108\n141\n\n\n7\nland rover\n17.2\n46\n66\n\n\n8\nlincoln\n16.2\n34\n51\n\n\n9\nmercury\n17.6\n53\n72\n\n\n10\nnissan\n42.5\n235\n320\n\n\n11\npontiac\n19.8\n85\n132\n\n\n12\nsubaru\n34.4\n270\n358\n\n\n13\ntoyota\n100.4\n630\n847\n\n\n14\nvolkswagen\n60.9\n565\n789\n\n\n\n\n\n\n\nNote: Non executing Python Snippets include (3) ``` followed by (3) more ```, each on their own line. These are not single quotes, they are the key left of the number 1 key on the keyboard. The top row can include the language of code that is pasted inbetween the ``` marks.\nNote: These also work in Slack and it is expected they are used for any code shared in that app. No screen shots allowed."
-  },
-  {
-    "objectID": "350_Projects/week_05.html",
-    "href": "350_Projects/week_05.html",
-    "title": "Weekly Notes",
-    "section": "",
-    "text": "Weekly Notes\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS350 Projects",
-      "Week 5"
-    ]
-  },
-  {
-    "objectID": "350_Projects/week_03.html",
-    "href": "350_Projects/week_03.html",
-    "title": "Weekly Notes",
-    "section": "",
-    "text": "Weekly Notes\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS350 Projects",
-      "Week 3"
-    ]
-  },
-  {
-    "objectID": "350_Projects/week_08.html",
-    "href": "350_Projects/week_08.html",
-    "title": "Weekly Notes",
-    "section": "",
-    "text": "Weekly Notes\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS350 Projects",
-      "Week 8"
-    ]
-  },
-  {
-    "objectID": "350_Projects/week_09.html",
-    "href": "350_Projects/week_09.html",
-    "title": "Weekly Notes",
-    "section": "",
-    "text": "Weekly Notes\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS350 Projects",
-      "Week 9"
-    ]
-  },
-  {
-    "objectID": "350_Projects/week_04.html",
-    "href": "350_Projects/week_04.html",
-    "title": "Weekly Notes",
-    "section": "",
-    "text": "Weekly Notes\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS350 Projects",
-      "Week 4"
-    ]
-  },
-  {
-    "objectID": "350_Projects/week_07.html",
-    "href": "350_Projects/week_07.html",
-    "title": "Weekly Notes",
-    "section": "",
-    "text": "Weekly Notes\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS350 Projects",
-      "Week 7"
-    ]
-  },
-  {
-    "objectID": "250_projects.html",
-    "href": "250_projects.html",
-    "title": "DS250 Projects",
-    "section": "",
-    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
-    "crumbs": [
-      "DS250 Projects"
-    ]
-  },
-  {
-    "objectID": "250_projects.html#repo-for-all-my-projects",
-    "href": "250_projects.html#repo-for-all-my-projects",
-    "title": "DS250 Projects",
-    "section": "",
-    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
-    "crumbs": [
-      "DS250 Projects"
-    ]
-  },
-  {
-    "objectID": "450_projects.html",
-    "href": "450_projects.html",
-    "title": "DS450 Projects",
-    "section": "",
-    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
-    "crumbs": [
-      "DS450 Projects"
-    ]
-  },
-  {
-    "objectID": "450_projects.html#repo-for-all-my-projects",
-    "href": "450_projects.html#repo-for-all-my-projects",
-    "title": "DS450 Projects",
-    "section": "",
-    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
-    "crumbs": [
-      "DS450 Projects"
-    ]
-  },
-  {
-    "objectID": "450_Projects/project6.html",
-    "href": "450_Projects/project6.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS450 Projects",
-      "Project 6"
-    ]
-  },
-  {
-    "objectID": "450_Projects/project4.html",
-    "href": "450_Projects/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS450 Projects",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "450_Projects/project5.html",
-    "href": "450_Projects/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS450 Projects",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "450_Projects/project2.html",
-    "href": "450_Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS450 Projects",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "250_Projects/project3.html",
-    "href": "250_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS250 Projects",
-      "Project 3"
+      "DS350 Projects"
     ]
   },
   {
@@ -341,7 +79,7 @@
     "href": "250_Projects/project0.html#questiontask-3",
     "title": "Client Report - Introduction",
     "section": "Question|Task 3",
-    "text": "Question|Task 3\nInclude the table created from PY4DS: CH2 Data Visualization used to create the above chart\n\n_This is the data set that the graph was pulled from.\n\n\n\ntable example\n# Include and execute your code here\n\npenguins = load_penguins()\npenguins\n\ndisplay(penguins)\n\n\n\n\n\n\ntable example {#cell-Q1-table}\n\n\n\nspecies\nisland\nbill_length_mm\nbill_depth_mm\nflipper_length_mm\nbody_mass_g\nsex\nyear\n\n\n\n\n0\nAdelie\nTorgersen\n39.1\n18.7\n181.0\n3750.0\nmale\n2007\n\n\n1\nAdelie\nTorgersen\n39.5\n17.4\n186.0\n3800.0\nfemale\n2007\n\n\n2\nAdelie\nTorgersen\n40.3\n18.0\n195.0\n3250.0\nfemale\n2007\n\n\n3\nAdelie\nTorgersen\nNaN\nNaN\nNaN\nNaN\nNaN\n2007\n\n\n4\nAdelie\nTorgersen\n36.7\n19.3\n193.0\n3450.0\nfemale\n2007\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n339\nChinstrap\nDream\n55.8\n19.8\n207.0\n4000.0\nmale\n2009\n\n\n340\nChinstrap\nDream\n43.5\n18.1\n202.0\n3400.0\nfemale\n2009\n\n\n341\nChinstrap\nDream\n49.6\n18.2\n193.0\n3775.0\nmale\n2009\n\n\n342\nChinstrap\nDream\n50.8\n19.0\n210.0\n4100.0\nmale\n2009\n\n\n343\nChinstrap\nDream\n50.2\n18.7\n198.0\n3775.0\nfemale\n2009\n\n\n\n\n344 rows × 8 columns",
+    "text": "Question|Task 3\nInclude the table created from PY4DS: CH2 Data Visualization used to create the above chart\n\n_This is the data set that the graph was pulled from.\n\n\n\ntable example\n# Include and execute your code here\n\npenguins = load_penguins()\npenguins\n\ndisplay(penguins)\n\n\n\n\n\n\ntable example\n\n\n\nspecies\nisland\nbill_length_mm\nbill_depth_mm\nflipper_length_mm\nbody_mass_g\nsex\nyear\n\n\n\n\n0\nAdelie\nTorgersen\n39.1\n18.7\n181.0\n3750.0\nmale\n2007\n\n\n1\nAdelie\nTorgersen\n39.5\n17.4\n186.0\n3800.0\nfemale\n2007\n\n\n2\nAdelie\nTorgersen\n40.3\n18.0\n195.0\n3250.0\nfemale\n2007\n\n\n3\nAdelie\nTorgersen\nNaN\nNaN\nNaN\nNaN\nNaN\n2007\n\n\n4\nAdelie\nTorgersen\n36.7\n19.3\n193.0\n3450.0\nfemale\n2007\n\n\n...\n...\n...\n...\n...\n...\n...\n...\n...\n\n\n339\nChinstrap\nDream\n55.8\n19.8\n207.0\n4000.0\nmale\n2009\n\n\n340\nChinstrap\nDream\n43.5\n18.1\n202.0\n3400.0\nfemale\n2009\n\n\n341\nChinstrap\nDream\n49.6\n18.2\n193.0\n3775.0\nmale\n2009\n\n\n342\nChinstrap\nDream\n50.8\n19.0\n210.0\n4100.0\nmale\n2009\n\n\n343\nChinstrap\nDream\n50.2\n18.7\n198.0\n3775.0\nfemale\n2009\n\n\n\n\n344 rows × 8 columns",
     "crumbs": [
       "DS250 Projects",
       "Project 0"
@@ -359,14 +97,513 @@
     ]
   },
   {
-    "objectID": "250_Projects/project5.html",
-    "href": "250_Projects/project5.html",
+    "objectID": "250_projects.html",
+    "href": "250_projects.html",
+    "title": "DS250 Projects",
+    "section": "",
+    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
+    "crumbs": [
+      "DS250 Projects"
+    ]
+  },
+  {
+    "objectID": "250_projects.html#repo-for-all-my-projects",
+    "href": "250_projects.html#repo-for-all-my-projects",
+    "title": "DS250 Projects",
+    "section": "",
+    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
+    "crumbs": [
+      "DS250 Projects"
+    ]
+  },
+  {
+    "objectID": "450_Projects/project1.html",
+    "href": "450_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS450 Projects",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "450_Projects/project0.html",
+    "href": "450_Projects/project0.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS450 Projects",
+      "Project 0"
+    ]
+  },
+  {
+    "objectID": "450_Projects/project2.html",
+    "href": "450_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS450 Projects",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "notebooks/Exploration_01.html#mpaa-movie-ratings",
+    "href": "notebooks/Exploration_01.html#mpaa-movie-ratings",
+    "title": "Data Exploration 01",
+    "section": "MPAA Movie Ratings:",
+    "text": "MPAA Movie Ratings:\n\nG: All ages admitted.\nPG: Some material may not be suitable for children.\nPG-13: Some material may be inappropriate for children under 13.\nR: Under 17 requires accompanying parent or adult guardian\nNC-17: No One 17 and Under Admitted\n\nMost people would consider G and PG as ratings suitable for children. However, not everyone would agree that a PG-13 movie is necssarily a children’s movie. It is up to you to decide how to handle this."
+  },
+  {
+    "objectID": "notebooks/Exploration_01.html#part-1-import-pandas",
+    "href": "notebooks/Exploration_01.html#part-1-import-pandas",
+    "title": "Data Exploration 01",
+    "section": "Part 1: Import Pandas",
+    "text": "Part 1: Import Pandas\nThe pandas library is a python library used for data analysis and manipulation. It will provide the core functionality for most of what you do in the data exploration and preprocessing stages of most machine learning projects.\nPlease see this Getting Started Guide for information on the conventional way to import Pandas into your project, as well as other helpful tips for common Pandas tasks.\n\n# Part 1: Enter the code below to import Pandas according to the\n# conventional method.\n\nimport pandas as pd"
+  },
+  {
+    "objectID": "notebooks/Exploration_01.html#part-2-load-the-data",
+    "href": "notebooks/Exploration_01.html#part-2-load-the-data",
+    "title": "Data Exploration 01",
+    "section": "Part 2: Load the data",
+    "text": "Part 2: Load the data\nThe dataset for this exploration is stored at the following url:\nhttps://raw.githubusercontent.com/byui-cse/cse450-course/master/data/netflix_titles.csv\nThere are lots of ways to load data into your workspace. The easiest way in this case is to ask Pandas to do it for you.\n\nInitial Data Analysis\nOnce you’ve loaded the data, it’s a good idea to poke around a little bit to find out what you’re dealing with.\nSome questions you might ask include:\n\nWhat does the data look like?\nWhat kind of data is in each column?\nDo any of the columns have missing values?\n\n\n# Part 2: Load the dataset into a Pandas dataframe.\nurl = \"https://raw.githubusercontent.com/byui-cse/cse450-course/master/data/netflix_titles.csv\"\ndf = pd.read_csv(url)\n\n\n# Then, explore the data by seeing what the first few rows look like.\ndf.head\n\n\n    pandas.core.generic.NDFrame.headdef head(n: int=5) -&gt; Self/usr/local/lib/python3.12/dist-packages/pandas/core/generic.pyReturn the first `n` rows.\n\nThis function returns the first `n` rows for the object based\non position. It is useful for quickly testing if your object\nhas the right type of data in it.\n\nFor negative values of `n`, this function returns all rows except\nthe last `|n|` rows, equivalent to ``df[:n]``.\n\nIf n is larger than the number of rows, this function returns all rows.\n\nParameters\n----------\nn : int, default 5\n    Number of rows to select.\n\nReturns\n-------\nsame type as caller\n    The first `n` rows of the caller object.\n\nSee Also\n--------\nDataFrame.tail: Returns the last `n` rows.\n\nExamples\n--------\n&gt;&gt;&gt; df = pd.DataFrame({'animal': ['alligator', 'bee', 'falcon', 'lion',\n...                    'monkey', 'parrot', 'shark', 'whale', 'zebra']})\n&gt;&gt;&gt; df\n      animal\n0  alligator\n1        bee\n2     falcon\n3       lion\n4     monkey\n5     parrot\n6      shark\n7      whale\n8      zebra\n\nViewing the first 5 lines\n\n&gt;&gt;&gt; df.head()\n      animal\n0  alligator\n1        bee\n2     falcon\n3       lion\n4     monkey\n\nViewing the first `n` lines (three in this case)\n\n&gt;&gt;&gt; df.head(3)\n      animal\n0  alligator\n1        bee\n2     falcon\n\nFor negative values of `n`\n\n&gt;&gt;&gt; df.head(-3)\n      animal\n0  alligator\n1        bee\n2     falcon\n3       lion\n4     monkey\n5     parrot\n      \n      \n\n\n\n# Next, display a technical summary of the data to determine the data types of each column, and which columns have missing data.\nprint(summary.df)\n\n\n---------------------------------------------------------------------------\nNameError                                 Traceback (most recent call last)\n/tmp/ipython-input-2329606272.py in &lt;cell line: 0&gt;()\n      1 # Next, display a technical summary of the data to determine the data types of each column, and which columns have missing data.\n----&gt; 2 print(summary.df)\n\nNameError: name 'summary' is not defined"
+  },
+  {
+    "objectID": "notebooks/Exploration_01.html#part-3-filter-the-data",
+    "href": "notebooks/Exploration_01.html#part-3-filter-the-data",
+    "title": "Data Exploration 01",
+    "section": "Part 3: Filter the Data",
+    "text": "Part 3: Filter the Data\nSince we’re just interested in movies, we’ll need to filter out anything that isn’t a movie for our analysis. The type feature contains this information.\nOnce we have the subset, we should see how many rows it contains. There are a variety of ways to get the length of a data frame.\n\n# Use pandas's filtering abilitites to select the subset of data\n# that represents movies, then calculate how many rows are in the filtered data.\n\n\nMPAA Ratings\nNow that we have only movies, let’s get a quick count of the values being used in the rating feature.\n\n# Determine the number of records for each value of the \"rating\" feature.\n# Remember to count the values in your subset only, not in the original dataframe.\n\n\n\nMore Filtering\nThere are apparently some “made for TV” movies in the list that don’t fit the MPAA rating scheme.\nLet’s filter some more to just see movies rated with the standard MPAA ratings of G, PG, PG-13, R, and NC-17.\n\n# Filter the list of movies to select a new subset containing only movies with\n# a standard MPAA rating. Calculate how many rows are in this new set, and\n# then see which ratings appear most often."
+  },
+  {
+    "objectID": "notebooks/Exploration_01.html#part-4-visualization",
+    "href": "notebooks/Exploration_01.html#part-4-visualization",
+    "title": "Data Exploration 01",
+    "section": "Part 4: Visualization",
+    "text": "Part 4: Visualization\nNow that we have explored and preprocessed our data, let’s create a visualization to summarize our findings.\n\nExploration vs Presentation\nBroadly speaking, there are two types of visualizations: * Barebones visualizations you might use to get a quick, visual understanding of the data while you’re trying to decide how it all fits together. * Presentation-quality visualizations that you would include in a report or presentation for management or other stakeholders.\n\n\nVisualization Tools\nThere are many different visualization tools availble. In the sections below, we’ll explore the three most common. Each of these libraries has strengths and weaknesses.\nIt is probably a good idea for you to become familiar with each one, and then become proficient at whichever one you like the best.\n\n\nAltair\nThe Altair visualization library provides a large variety of very easy to use statistical charting tools.\nAltair uses a declarative language to build up charts piece by piece.\nAssume we have a pandas dataframe called employees, with three columns: name, job, salary.\n# Make a box plot style categorical plot showing the distribution of salaries for each job:\nalt.Chart(employees).mark_boxplot().encode(\n    x='job',\n    y='salary'\n)\n\n# Make a box plot style categorical plot, and customize the results\nalt.Chart(employees).mark_boxplot().encode(\n    alt.X('job', title='Job title'),\n    alt.Y('salary', title='Annual salary in thousands of $USD')\n).properties(\n  title='Salaries by Job Title'\n)\nLike with Pandas, there is a conventional way to import Altair into your projects.\n\n# Import the Altair library the conventional way.\n\nLet’s create a barchart showing the count of each movie rating by using Altair’s aggregation capabilities.\nIn this example, we see the x axis being set to a feature called a, and the y axis set to the average() of a feature called b.\nIn our case, we want the x axis to be set to rating and the y axis to be the count() of rating.\n\n# Use Altair to create a bar chart comparing the count of each movie rating\n\n\n\nSeaborn\nWhile Altair uses a “declarative” syntax for building charts piece by piece, the Seaborn library provides a large variety of pre-made charts for common statistical needs.\nThese charts are divided into different categories. Each category has a high-level interface you can use for simplicity, and then a specific function for each chart that you can use if you need more control over how the chart looks.\nSeaborn uses matplotlib for its drawing, and the chart-specific functions each return a matplitlib axes object if you need additional customization.\nFor example, there are several different types of categorical plots in seaborn: bar plots, box plots, point plots, count plots, swarm plots, etc…\nEach of these plots can be accessed using the catplot function.\nAssume we have a pandas dataframe called employees, with three columns: name, job, salary.\n# Make a box plot style categorical plot showing the distribution of salaries for each job:\nsns.catplot(data=employees, x='job', y='salary', kind='box')\n\n# Make a swarm plot style categorical plot\nsns.catplot(data=employees, x='job', y='salary', kind='swarm')\nAlternatively, you can use the plot specific functions to give yourself more control over the output by using matplotlib functions:\n# Make a box plot style categorical plot, and customize the results\nimport matplotlib.pyplot as plt\n\nplt.figure(figsize=(12, 9))\nax = sns.boxplot(data=employees, x='job', y='salary')\nax.set_title(\"Salaries by Job Title\")\nax.set_ylabel(\"Annual salary in thousands of $USD\")\nax.set_xlabel(\"Job title\")\nLike with Pandas, there is a conventional way to import Seaborn into your projects.\nOptionally, you may wish to set some default chart aesthetics by setting the chart style.\n\n# Import the seaborn library the conventional way. Then optionally configure\n# the default chart style.\n\nSince the rating column uses categorical data, we need to use Seaborn’s categorical visualizations.\nIn particular, we want a “count plot” that will display a count of movie ratings.\n\n# Use seaborn to create a count plot comparing the count of each movie rating\n\n\n\nPandas built-in plotting\nIn addition to libraries like Altair and Seaborn, Pandas has some built in charting functionality.\nWhile not as sophisticated as some of the other options, it is often good enough for quick visualizations.\nJust like with seaborn’s plotting functions, the pandas plotting functions return matplotlib axes objects, which can be further customized.\nAssume we have a pandas dataframe called employees, with three columns: name, job, salary.\n# Make a box plot style categorical plot showing the distribution of salaries for each job:\nemployees[ ['job','salary'] ].plot.box()\n\n# Make a box plot style categorical plot, and customize the results\nimport matplotlib.pyplot as plt\n\nplt.figure(figsize=(12, 9))\nax = employees[ ['job','salary'] ].plot().box()\nax.set_title(\"Salaries by Job Title\")\nax.set_ylabel(\"Annual salary in thousands of $USD\")\nax.set_xlabel(\"Job title\")\n\n# Use pandas' built in plotting functions to create a count plot comparing the count of each movie rating\n# This will be a little trickier than the other libraries, but one hint is that the pandas value_counts() function\n# actually returns a dataframe."
+  },
+  {
+    "objectID": "notebooks/Exploration_01.html#above-and-beyond",
+    "href": "notebooks/Exploration_01.html#above-and-beyond",
+    "title": "Data Exploration 01",
+    "section": "🌟 Above and Beyond 🌟",
+    "text": "🌟 Above and Beyond 🌟\nAfter reviewing your findings, the watchdog group would like some additional questions answered:\n\nHow are things affected if you include the “made for TV movies” that have been assigned TV ratings in your analysis, but still exclude unrated movies?\nThey would also like to see a separate report that includes only TV shows.\nFor an upcoming community meeting, the group would like to present a simple chart showing “For Kids” and “For Adults” categories. The easiest way to accomplish this would be to create a new column in your data frame that maps each rating to the appropriate “For Kids” or “For Adults” label, then create a new visualization based on that column."
+  },
+  {
+    "objectID": "350_Projects/week_13.html",
+    "href": "350_Projects/week_13.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 13"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_11.html",
+    "href": "350_Projects/week_11.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_04.html",
+    "href": "350_Projects/week_04.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 4"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_06.html",
+    "href": "350_Projects/week_06.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 6"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_01.html",
+    "href": "350_Projects/week_01.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 1"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_12.html",
+    "href": "350_Projects/week_12.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 12"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_10.html",
+    "href": "350_Projects/week_10.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 10"
+    ]
+  },
+  {
+    "objectID": "450_projects.html",
+    "href": "450_projects.html",
+    "title": "DS450 Projects",
+    "section": "",
+    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
+    "crumbs": [
+      "DS450 Projects"
+    ]
+  },
+  {
+    "objectID": "450_projects.html#repo-for-all-my-projects",
+    "href": "450_projects.html#repo-for-all-my-projects",
+    "title": "DS450 Projects",
+    "section": "",
+    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
+    "crumbs": [
+      "DS450 Projects"
+    ]
+  },
+  {
+    "objectID": "Templates/DS250_Template.html",
+    "href": "Templates/DS250_Template.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "THIS .qmd IS INSTRUCTIONAL AND SHOULD NOT BE USED TO WRITE YOUR REPORTS (EXCEPTION - PROJECT 0). THERE IS ANOTHER TEMPLATE FILE FOR THAT. YOU WILL NEED TO PREVIEW THE REPORT TO PRODUCE A .html FILE. YOU WILL SUBMIT THE .html FILE ON CANVAS."
+  },
+  {
+    "objectID": "Templates/DS250_Template.html#elevator-pitch",
+    "href": "Templates/DS250_Template.html#elevator-pitch",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "Elevator pitch",
+    "text": "Elevator pitch\nA SHORT (2-3 SENTENCES) PARAGRAPH THAT DESCRIBES KEY INSIGHTS TAKEN FROM METRICS IN THE PROJECT RESULTS THINK TOP OR MOST IMPORTANT RESULTS. (Note: this is not a summary of the project, but a summary of the results.)\nA Client has requested this analysis and this is your one shot of what you would say to your boss in a 2 min elevator ride before he takes your report and hands it to the client.\n\n\nRead and format project data\n# Learn morea about Code Cells: https://quarto.org/docs/reference/cells/cells-jupyter.html\n\n# Include and execute your code here\ndf = pd.read_csv(\"https://raw.githubusercontent.com/byuidatascience/data4python4ds/master/data-raw/mpg/mpg.csv\")\n\n\nHighlight the Questions and Tasks"
+  },
+  {
+    "objectID": "Templates/DS250_Template.html#questiontask-1",
+    "href": "Templates/DS250_Template.html#questiontask-1",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "Question|Task 1",
+    "text": "Question|Task 1\nCOPY PASTE QUESTION|TASK 1 FROM THE PROJECT HERE\nAdd details here to answer the question but NOT like an assignment Q&A. You need to write your answers as a consulting solution report. A Client needs to understand the answer, but also needs to understand the decisions that went into the answer (when applicable).\ninclude figures in chunks and discuss your findings in the figure.\n\nYOU SHOULD HAVE QUALITY WRITING THAT DESCRIBES YOUR CHARTS AND TABLES.\nWE HIGHLY RECOMMEND GRAMMARLY TO FIX YOUR SPELLING AND GRAMMAR. WRITING TAKES TIME TO BE CLEAR. SPEND THE TIME TO PRACITCE.\nYOU SHOULD HAVE QUALITY COMMENTS THAT DESCRIBES YOUR CODES. OFTEN CODEERS WORK IN TEAMS AND YOU NEED TO HAVE QUALTIY COMMENTS FOR YOUR TEAM AND YOURSELF. YOU MAY NEED TO REVISIT CODE YOU WROTE OVER A YEAR AGO, AND IF YOU DONT COMMENT IT NOW YOU WONT REMEMBER WHY YOU DID WHAT YOU DID.\n\n\n\nRead and format data\n# Include and execute your code here"
+  },
+  {
+    "objectID": "Templates/DS250_Template.html#questiontask-2",
+    "href": "Templates/DS250_Template.html#questiontask-2",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "Question|Task 2",
+    "text": "Question|Task 2\nCOPY PASTE QUESTION|TASK 2 FROM THE PROJECT HERE\n\ninclude figures in chunks and discuss your findings in the figure.\n\n\n\nplot example\n# Include and execute your code here\n\n(\n  ggplot(df.head(500), aes(x='displ', y='hwy')) + geom_point()\n)\n\n\n\n   \n       \n       \n       \n   \n   \n          \n   \n   \n\nMy useless chart"
+  },
+  {
+    "objectID": "Templates/DS250_Template.html#questiontask-3",
+    "href": "Templates/DS250_Template.html#questiontask-3",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "Question|Task 3",
+    "text": "Question|Task 3\nCOPY PASTE QUESTION|TASK 3 FROM THE PROJECT HERE\n\nPROVIDE TABLES THAT HELP ADDRESS THE QUESTIONS AND TASKS (IF APPLICABLE).\n\n\n\ntable example\n# Include and execute your code here\nmydat = (df.head(1000)\n    .groupby('manufacturer')\n    .sum()\n    .reset_index()\n    .tail(10)\n    .filter([\"manufacturer\",\"displ\",\"cty\", \"hwy\"])\n)\n\ndisplay(mydat)\n\n\n\n\n\n\ntable example\n\n\n\nmanufacturer\ndispl\ncty\nhwy\n\n\n\n\n5\nhyundai\n34.0\n261\n376\n\n\n6\njeep\n36.6\n108\n141\n\n\n7\nland rover\n17.2\n46\n66\n\n\n8\nlincoln\n16.2\n34\n51\n\n\n9\nmercury\n17.6\n53\n72\n\n\n10\nnissan\n42.5\n235\n320\n\n\n11\npontiac\n19.8\n85\n132\n\n\n12\nsubaru\n34.4\n270\n358\n\n\n13\ntoyota\n100.4\n630\n847\n\n\n14\nvolkswagen\n60.9\n565\n789\n\n\n\n\n\n\n\nNote: Non executing Python Snippets include (3) ``` followed by (3) more ```, each on their own line. These are not single quotes, they are the key left of the number 1 key on the keyboard. The top row can include the language of code that is pasted inbetween the ``` marks.\nNote: These also work in Slack and it is expected they are used for any code shared in that app. No screen shots allowed."
+  },
+  {
+    "objectID": "460_Projects/project5.html",
+    "href": "460_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS460 Projects",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "460_Projects/project6.html",
+    "href": "460_Projects/project6.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS460 Projects",
+      "Project 6"
+    ]
+  },
+  {
+    "objectID": "460_Projects/project4.html",
+    "href": "460_Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS460 Projects",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "460_Projects/project3.html",
+    "href": "460_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS460 Projects",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "460_Projects/project2.html",
+    "href": "460_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS460 Projects",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "460_Projects/project0.html",
+    "href": "460_Projects/project0.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS460 Projects",
+      "Project 0"
+    ]
+  },
+  {
+    "objectID": "460_Projects/project1.html",
+    "href": "460_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS460 Projects",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Templates/DS350_Template.html",
+    "href": "Templates/DS350_Template.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Tristan Stubblefield’s CV",
+    "section": "",
+    "text": "Student, Mathematician, Entrepeneur\n\nlinkedin.com | My LinkedIn page\n\n\n\nUndergrad Sudent at BYU Idaho\n\n\nMajor: Financial Economics Minor: Data Science\n\n\n\nData analytics, Investment analysis, Business Managment, Marketing, Financial Analytics, Big data, Banking\n\n\n\n\n2023 - Now BYU Idaho, Rexburg.\n\nUndergrad Student\n\n\n\n\n2016 Eagle scout\n2019 All State Academic Athlete - Football All District Honors - Defensive End\n2020 Thomas E. Ricks Grant\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n2024 - Now Chipotle Crew"
+  },
+  {
+    "objectID": "resume.html#currently",
+    "href": "resume.html#currently",
+    "title": "Tristan Stubblefield’s CV",
+    "section": "",
+    "text": "Undergrad Sudent at BYU Idaho\n\n\nMajor: Financial Economics Minor: Data Science\n\n\n\nData analytics, Investment analysis, Business Managment, Marketing, Financial Analytics, Big data, Banking"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Tristan Stubblefield’s CV",
+    "section": "",
+    "text": "2023 - Now BYU Idaho, Rexburg.\n\nUndergrad Student"
+  },
+  {
+    "objectID": "resume.html#awards",
+    "href": "resume.html#awards",
+    "title": "Tristan Stubblefield’s CV",
+    "section": "",
+    "text": "2016 Eagle scout\n2019 All State Academic Athlete - Football All District Honors - Defensive End\n2020 Thomas E. Ricks Grant"
+  },
+  {
+    "objectID": "resume.html#publications",
+    "href": "resume.html#publications",
+    "title": "Tristan Stubblefield’s CV",
+    "section": "",
+    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
+  },
+  {
+    "objectID": "resume.html#occupation",
+    "href": "resume.html#occupation",
+    "title": "Tristan Stubblefield’s CV",
+    "section": "",
+    "text": "2024 - Now Chipotle Crew"
+  },
+  {
+    "objectID": "350_Projects/week_05.html",
+    "href": "350_Projects/week_05.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 5"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_07.html",
+    "href": "350_Projects/week_07.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 7"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_03.html",
+    "href": "350_Projects/week_03.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 3"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_08.html",
+    "href": "350_Projects/week_08.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 8"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_02.html",
+    "href": "350_Projects/week_02.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 2"
+    ]
+  },
+  {
+    "objectID": "350_Projects/week_09.html",
+    "href": "350_Projects/week_09.html",
+    "title": "Weekly Notes",
+    "section": "",
+    "text": "Weekly Notes\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS350 Projects",
+      "Week 9"
+    ]
+  },
+  {
+    "objectID": "460_projects.html",
+    "href": "460_projects.html",
+    "title": "DS460 Projects",
+    "section": "",
+    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
+    "crumbs": [
+      "DS460 Projects",
+      "DS450 Projects"
+    ]
+  },
+  {
+    "objectID": "460_projects.html#repo-for-all-my-projects",
+    "href": "460_projects.html#repo-for-all-my-projects",
+    "title": "DS460 Projects",
+    "section": "",
+    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
+    "crumbs": [
+      "DS460 Projects",
+      "DS450 Projects"
+    ]
+  },
+  {
+    "objectID": "450_Projects/project3.html",
+    "href": "450_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS450 Projects",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "450_Projects/project4.html",
+    "href": "450_Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS450 Projects",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "450_Projects/project6.html",
+    "href": "450_Projects/project6.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS450 Projects",
+      "Project 6"
+    ]
+  },
+  {
+    "objectID": "450_Projects/project5.html",
+    "href": "450_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "DS450 Projects",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "250_Projects/project3.html",
+    "href": "250_Projects/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "DS250 Projects",
-      "Project 5"
+      "Project 3"
     ]
   },
   {
@@ -392,209 +629,14 @@
     ]
   },
   {
-    "objectID": "450_Projects/project0.html",
-    "href": "450_Projects/project0.html",
+    "objectID": "250_Projects/project5.html",
+    "href": "250_Projects/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "DS450 Projects",
-      "Project 0"
-    ]
-  },
-  {
-    "objectID": "450_Projects/project1.html",
-    "href": "450_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS450 Projects",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "450_Projects/project3.html",
-    "href": "450_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS450 Projects",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "460_projects.html",
-    "href": "460_projects.html",
-    "title": "DS460 Projects",
-    "section": "",
-    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
-    "crumbs": [
-      "DS460 Projects",
-      "DS450 Projects"
-    ]
-  },
-  {
-    "objectID": "460_projects.html#repo-for-all-my-projects",
-    "href": "460_projects.html#repo-for-all-my-projects",
-    "title": "DS460 Projects",
-    "section": "",
-    "text": "Project 0\nProject 1\nProject 2\nProject 3\nProject 4\nProject 5\nProject 6",
-    "crumbs": [
-      "DS460 Projects",
-      "DS450 Projects"
-    ]
-  },
-  {
-    "objectID": "350_Projects/week_10.html",
-    "href": "350_Projects/week_10.html",
-    "title": "Weekly Notes",
-    "section": "",
-    "text": "Weekly Notes\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS350 Projects",
-      "Week 10"
-    ]
-  },
-  {
-    "objectID": "350_Projects/week_06.html",
-    "href": "350_Projects/week_06.html",
-    "title": "Weekly Notes",
-    "section": "",
-    "text": "Weekly Notes\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS350 Projects",
-      "Week 6"
-    ]
-  },
-  {
-    "objectID": "350_Projects/week_12.html",
-    "href": "350_Projects/week_12.html",
-    "title": "Weekly Notes",
-    "section": "",
-    "text": "Weekly Notes\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS350 Projects",
-      "Week 12"
-    ]
-  },
-  {
-    "objectID": "350_Projects/week_11.html",
-    "href": "350_Projects/week_11.html",
-    "title": "Weekly Notes",
-    "section": "",
-    "text": "Weekly Notes\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS350 Projects",
-      "Week 11"
-    ]
-  },
-  {
-    "objectID": "350_Projects/week_02.html",
-    "href": "350_Projects/week_02.html",
-    "title": "Weekly Notes",
-    "section": "",
-    "text": "Weekly Notes\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS350 Projects",
-      "Week 2"
-    ]
-  },
-  {
-    "objectID": "350_Projects/week_01.html",
-    "href": "350_Projects/week_01.html",
-    "title": "Weekly Notes",
-    "section": "",
-    "text": "Weekly Notes\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS350 Projects",
-      "Week 1"
-    ]
-  },
-  {
-    "objectID": "350_Projects/week_13.html",
-    "href": "350_Projects/week_13.html",
-    "title": "Weekly Notes",
-    "section": "",
-    "text": "Weekly Notes\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS350 Projects",
-      "Week 13"
-    ]
-  },
-  {
-    "objectID": "Templates/DS350_Template.html",
-    "href": "Templates/DS350_Template.html",
-    "title": "Weekly Notes",
-    "section": "",
-    "text": "Weekly Notes\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "460_Projects/project0.html",
-    "href": "460_Projects/project0.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS460 Projects",
-      "Project 0"
-    ]
-  },
-  {
-    "objectID": "460_Projects/project1.html",
-    "href": "460_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS460 Projects",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "460_Projects/project3.html",
-    "href": "460_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "DS460 Projects",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "350_projects.html",
-    "href": "350_projects.html",
-    "title": "DS350 Projects",
-    "section": "",
-    "text": "Week 01\nWeek 02\nWeek 03\nWeek 04\nWeek 05\nWeek 06\nWeek 07\nWeek 08\nWeek 09\nWeek 10\nWeek 11\nWeek 12\nWeek 13",
-    "crumbs": [
-      "DS350 Projects"
-    ]
-  },
-  {
-    "objectID": "350_projects.html#repo-for-all-my-projects",
-    "href": "350_projects.html#repo-for-all-my-projects",
-    "title": "DS350 Projects",
-    "section": "",
-    "text": "Week 01\nWeek 02\nWeek 03\nWeek 04\nWeek 05\nWeek 06\nWeek 07\nWeek 08\nWeek 09\nWeek 10\nWeek 11\nWeek 12\nWeek 13",
-    "crumbs": [
-      "DS350 Projects"
+      "DS250 Projects",
+      "Project 5"
     ]
   }
 ]
